@@ -1,7 +1,7 @@
 import { TuyaContext } from '../src';
 // const { TuyaContext } = require('../lib/index');
 // import { TuyaContext } from '@tuya/tuya-connector-nodejs';
-
+//teste
 /**
  * api env entrypoint
  *
